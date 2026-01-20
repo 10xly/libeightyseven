@@ -1,0 +1,33 @@
+{
+  "name": "libeightyseven",
+  "version": "1.0.0",
+  "description": "get the number 87",
+  "keywords": [
+    "10xly",
+    "mit"
+  ],
+  "homepage": "https://github.com/10xly/libeightyseven#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/libeightyseven/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/libeightyseven.git"
+  },
+  "license": "MIT",
+  "author": "MIT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lowercase-letters/f": "^3.0.0",
+    "87fdash": "^87.0.0",
+    "construct-new": "^2.0.5",
+    "jsdom": "^26.1.0",
+    "lodash.head": "^4.0.1",
+    "numero": "^0.1.1",
+    "string.prototype.split": "^1.0.9"
+  }
+}
